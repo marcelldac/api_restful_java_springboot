@@ -19,7 +19,6 @@ public class ProdutoRepository {
    * 
    * @return lista de produtos.
    */
-
   public List<Produto> obterTodos() {
     return produtos;
   }
